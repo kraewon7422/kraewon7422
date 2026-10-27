@@ -1,11 +1,8 @@
-## hi there 👋
+## hello world 👋
 
 I'm a high school student from South Korea.
 
-I build things with AI — and I'm slowly learning to build them on my own.
-Most of my projects started as *"wait, can I actually simulate that?"*
-
-Here's some of what I've been curious about lately 👇
+Learning to code (with AI)
 
 <br>
 
@@ -29,16 +26,3 @@ An MCP server so Claude can read my handwritten Samsung Notes. Read-only,
 runs entirely on my own PC. Built it because I was tired of retyping things.
 
 <br>
-
-### 🌱 right now
-
-- learning to write the code *before* I ask for it
-- somewhere between "it works" and "I understand why it works"
-- mostly physics sims, tiny games, and tools for my own workflow
-
-<br>
-
----
-
-<sub>*still figuring it out, one repo at a time.*</sub>
-<sub>고등학생이고, 만들면서 배우는 중입니다 :)</sub>
